@@ -3,12 +3,13 @@ output_dir: "."
 navbar:
   title : "Pulou_HW09"
   left:
-   - text: "Coding in Python"
-     href: hw9_blinken_vs_hua.html
-   - text: "Coding in R"
-     href: homework09_r.html
+  
    - text: "Project Explanation"
      href: hw09_writeup.html
+   - text: "Coding in R"
+     href: homework09_r.html
+   - text: "Coding in Python"
+     href: hw9_blinken_vs_hua.html
 
 output:
   html_document:
